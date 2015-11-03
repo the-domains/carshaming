@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Carshaming]]></title>
         <description><![CDATA[Carshaming]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/carshaming/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 Nov 2015 03:00:14 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 03 Nov 2015 03:03:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/carshaming/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Getting Started on The Grid]]></title>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
+            <link>https://thegrid.ai/carshaming/getting-started-on-the-grid/index.html</link>
+            <guid isPermaLink="false">1cea5e35-ce27-4e42-b956-fd013d9d2ae6</guid>
+            <pubDate>Tue, 03 Nov 2015 03:02:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Is this the body? ]]></title>
             <description><![CDATA[<article><h1>Is this the body? </h1><p>This is the description in the Title section  - how is it displayed?</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d2da58d6-933b-4a59-9f4b-195217052c4a.jpg"></article>]]></description>
-            <link>undefinedis-this-the-body/index.html</link>
+            <link>https://thegrid.ai/carshaming/is-this-the-body/index.html</link>
             <guid isPermaLink="false">646e8d4d-8bfc-445f-9d24-093954497b1c</guid>
             <pubDate>Tue, 03 Nov 2015 03:00:14 GMT</pubDate>
         </item>

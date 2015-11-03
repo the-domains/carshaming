@@ -1,7 +1,8 @@
 name: Carshaming
 favicon: null
 layout_spectrum: 0.51619
-typography_spectrum: 0
+typography_spectrum: 0.5
+title: Carshaming
 cta:
   domain: null
   bucket: null
